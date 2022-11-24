@@ -19,5 +19,7 @@
 
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotiburske&layout=compact)(https://github.com/leandrotiburske/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotiburske&theme=tokyonight)
+
 </p>
