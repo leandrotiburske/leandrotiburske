@@ -20,6 +20,6 @@
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotiburske&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotiburske&layout=compact)
 
 </p>
