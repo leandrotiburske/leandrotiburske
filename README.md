@@ -1,4 +1,4 @@
-<h2> Hey there, I'm Leandro Tiburske! <img src="https://user-images.githubusercontent.com/82397631/203871939-18e28acc-e0f7-45e9-b86c-c4062e219ea4.gif" width="50"></h2>
+<h2> Hey there! <img src="https://user-images.githubusercontent.com/82397631/203871939-18e28acc-e0f7-45e9-b86c-c4062e219ea4.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/82397631/203873267-68e34627-bdf6-4cb3-937d-6fe55a8e7e6c.gif" width="300">
 <p><em>Biomedical Sciences Undergraduate Student at <a href="https://www5.usp.br/">University of São Paulo</a><img src="https://user-images.githubusercontent.com/82397631/203873079-1e174857-43f0-4d6c-be9f-ec48374097e2.gif" width="30"></br>Undergraduate Researcher at <a href="https://www.csbiology.org/">Computational Systems Biology Laboratory </a><img src="https://user-images.githubusercontent.com/82397631/203872158-bb6c67d2-07b1-43f0-84c5-a5cea208ee26.gif" width="20"> 
 </em></p>
