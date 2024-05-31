@@ -23,4 +23,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotiburske&layout=compact&hide=makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotiburske&layout=compact&hide=jupyter%20notebook,makefile)
