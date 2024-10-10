@@ -1,4 +1,3 @@
-<h2> Hey there! <img src="https://user-images.githubusercontent.com/82397631/203871939-18e28acc-e0f7-45e9-b86c-c4062e219ea4.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/82397631/203873267-68e34627-bdf6-4cb3-937d-6fe55a8e7e6c.gif" width="250">
 <p><em>Bioinformatics Analyst @ <a href="https://biotrop.com/">BIOTROP</a><img src="https://user-images.githubusercontent.com/82397631/203872158-bb6c67d2-07b1-43f0-84c5-a5cea208ee26.gif" width="20"> 
 </em></p>
