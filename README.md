@@ -1,5 +1,5 @@
 <img align='right' src="https://user-images.githubusercontent.com/82397631/203873267-68e34627-bdf6-4cb3-937d-6fe55a8e7e6c.gif" width="250">
-<p><em>Bioinformatics Analyst @ <a href="https://biotrop.com/">BIOTROP</a><img src="https://user-images.githubusercontent.com/82397631/203872158-bb6c67d2-07b1-43f0-84c5-a5cea208ee26.gif" width="20"> 
+<p><em>Bioinformatics Technician @ <a href="https://humantechnopole.it/en/">Human Technopole</a><img src="https://user-images.githubusercontent.com/82397631/203872158-bb6c67d2-07b1-43f0-84c5-a5cea208ee26.gif" width="20"> 
 </em></p>
 
 [![Linkedin: leandrotiburske](https://img.shields.io/badge/-leandrotiburske-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-tiburske-a323b61b2/)](https://www.linkedin.com/in/leandro-tiburske-a323b61b2/)
