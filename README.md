@@ -10,6 +10,26 @@
 <br />
 
 ## 🧰 My stack:
+
+<p>Languages</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_lg.png" alt="Shell" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Nextflow" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<p>Backend</p>
+
+<p>Frontend</p>
+
+<p>Bioinformatics & Pipelines</p>
+
+<p>DevOps & Infra</p>
+
+<p>Databases</p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_lg.png" alt="Shell" height="40" style="vertical-align:top; margin:4px">
