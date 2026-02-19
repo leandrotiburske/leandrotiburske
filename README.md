@@ -9,11 +9,18 @@
 <br />
 <br />
 
-## 🧰 Languages and Tools:
+## 🧰 My stack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_lg.png" alt="Shell" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Shell" height="40" style="vertical-align:top; margin:4px">
+
+<br />
+<br />
+  
+<img src="https://www.e-time.it/wp-content/uploads/2022/03/airflow-480x343.webp" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
+<img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="40" style="vertical-align:top; margin:4px">
 
 <br />
 <br />
