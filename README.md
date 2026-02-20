@@ -61,6 +61,24 @@
 
 ---
 
+<h3 align="center">Workflow Orchestration</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" height="45"><br>
+<sub>Airflow</sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" height="45"><br>
+<sub>Nextflow</sub>
+</td>
+</tr>
+</table>
+
+---
+
 <h3 align="center">Frontend</h3>
 
 <table align="center">
@@ -78,24 +96,6 @@
 <td align="center" width="140">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="45"><br>
 <sub>CSS</sub>
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">Workflow Orchestration</h3>
-
-<table align="center">
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" height="45"><br>
-<sub>Airflow</sub>
-</td>
-
-<td align="center" width="140">
-<img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" height="45"><br>
-<sub>Nextflow</sub>
 </td>
 </tr>
 </table>
